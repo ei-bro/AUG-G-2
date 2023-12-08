@@ -1,0 +1,2 @@
+1 - Type your name in index.html file 
+2 - create new file (style.css) and write any css code 
